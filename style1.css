@@ -1,0 +1,103 @@
+#header{
+    width:100%;
+    height:60px;
+   margin: 0%;
+    background-color: rgb(91, 87, 87);
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    background: linear-gradient(to right,rgb(75, 52, 52),rgba(78, 64, 38, 0.137));
+    
+
+}
+#links{
+    height: 35px;
+    width: 100%;
+    background-color:rgb(204, 196, 196);
+    color: rgb(52, 47, 47);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    word-spacing: 5px;
+    
+}
+#menu{
+    height: 730px;;
+    width: 15%;
+    background-color: rgb(199, 173, 184);
+    color: black;
+    padding: 20px;
+    line-height: 2;
+    display: list-item;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+    
+}
+#main{
+    height:750px;
+    width: 83%;
+    position: absolute;
+    
+    top: 14.25%;
+    left: 15%;
+    background-color: rgb(241, 241, 241);
+    color: black;
+    padding:10px;
+    word-spacing:2;
+    line-height: 2;
+    
+
+}
+#img{
+    border: 5px;
+    border-color: brown;
+
+    
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 15px,blue;
+    
+
+
+}
+#img1{
+    height: 350px;
+    width:300px;
+    border: 5px,blue;
+    border-color: black;
+    background-image:url(https://plus.unsplash.com/premium_photo-1677661620514-aec974a9876c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    
+    
+
+}
+#img2{
+    height: 350px;
+    width:300px;
+    background-image:url(https://images.unsplash.com/photo-1495774856032-8b90bbb32b32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29mZmVlfGVufDB8fDB8fHww);
+    background-size:cover;
+    background-position: center;
+}
+#img3{
+    height: 350px;
+    width:300px;
+    background-image: url(https://images.unsplash.com/photo-1518057111178-44a106bad636?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D);
+    background-size: cover;
+    background-position: center;
+}
+#last{
+    width: 120%;
+    height: 20px;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
